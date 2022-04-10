@@ -1,5 +1,6 @@
 int GetTemperature(){
-    return 12;
+    int result = 18;
+    return result;
 }
 
 Console.WriteLine("What's your name");
